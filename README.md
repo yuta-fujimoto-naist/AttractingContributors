@@ -60,4 +60,4 @@ total 2400yen
 total 
 
 There is no intention to make you bet an unreasonable amount. <br>
-Please consult with your wallet and decide how much you want to bet.
+If you want to bet, please consult with your wallet and decide how much you want to bet.
