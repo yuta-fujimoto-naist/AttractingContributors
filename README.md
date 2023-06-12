@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Goal: I like sports. My favorite sports are baseball. I will be appreciate if you could give me some recommendations. Anyone is OK!
 
 # List of Hobby
-1.
+1. Darts
 2.
 3.
 4.
