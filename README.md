@@ -2,7 +2,7 @@
 Goal - I want contributors to help me list some favorite Manga.
 # List of Manga
 1.
-2.
+2.Doraemon
 3.
 4.
 5.
