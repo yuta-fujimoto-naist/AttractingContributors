@@ -20,4 +20,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# My Project 
+Goal: I like sports. My favorite sports are baseball. I will be appreciate if you could give me some recommendations. Anyone is OK!
+
 # List of Hobby
+1. 
