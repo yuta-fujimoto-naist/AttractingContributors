@@ -16,4 +16,4 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # List of Disney Movies
-1.CoCo
+1.Coco
