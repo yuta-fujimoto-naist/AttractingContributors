@@ -27,7 +27,7 @@ Please write down if you have knowledge!
 3. Monster Hunter
 4. 1145141919810
 5. Mr.incredible becoming uncanny(https://wikiwiki.jp/mrincredible/Mr.%20incredible%20becoming%20uncanny)
-6.
+6. Doge
 7.
 8.
 9.
