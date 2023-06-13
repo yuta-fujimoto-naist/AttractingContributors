@@ -4,4 +4,6 @@ Because I like disovering new places, new food and new countries, I want to prep
 Thank you in advance!
 
 # List of recommended places to visit
-- Ushuaia, Argentina
+1. Merida
+2. Hakata
+3. Ushuaia, Argentina
