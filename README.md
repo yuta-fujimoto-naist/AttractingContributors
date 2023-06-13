@@ -4,7 +4,7 @@ Goal - I want contributors to help me list some favorite Manga.
 1. Ninja to Gokudo(忍者と極道)
 2. Doraemon
 3. Dr.Stone
-4.
+4. BLEACH
 5.
 6.
 7.
