@@ -5,9 +5,9 @@ Goal - I want contributors to help me list some favorite Manga.
 2. Doraemon
 3. Dr.Stone
 4. BLEACH
-5. chainsaw man
-6.
-7.
+5. WorldTrigger
+6. DEATH NOTE
+7. chainsaw man
 8.
 9.
 10.
