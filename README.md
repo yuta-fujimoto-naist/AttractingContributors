@@ -25,39 +25,25 @@ About 80,000 yen
 
 
 # My Project (Predict Exacta)
-Goal - I want contributors to help me predict exacta in the Takarazuka Kinen on June 25.
+Goal - I want contributors to help me predict win in the Takarazuka Kinen on June 25.
 
 # The Winner. (My tip)
 Equinox
 
-# List of The Second Place. (My tip)
-1. Justin Palace
-2. Geraldina
-3. Ask Victor More
-4. Lilac
-5. Unicorn Lion
-6. Win Mighty
+# List of The Winner. (Your tip)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
 
-# List of Exacta. (My betting)
-1. Equinox-Justin Palace 300yen
-2. Equinox-Geraldina 300yen
-3. Equinox-Ask Victor More 300yen
-4. Equinox-Lilac 500yen
-5. Equinox-Unicorn Lion 500yen
-6. Equinox-Win Mighty 500yen
-
-total 2400yen
-
-# List of The Winner. (Your name tip)
-
-
-# List of The Second Place. (Your name tip)
-
-
-# List of Exacta. (Your name betting)
-
-
-total 
 
 There is no intention to make you bet an unreasonable amount. <br>
 If you want to bet, please consult with your wallet and decide how much you want to bet.
