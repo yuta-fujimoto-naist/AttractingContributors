@@ -4,4 +4,16 @@ Because I like disovering new places, new food and new countries, I want to prep
 Thank you in advance!
 
 # List of recommended places to visit
-1. Amano Hashidate, Kyoto, Japan
+
+1. Merida
+2. Hakata
+3. Greatwall (China)
+4. Shirahama
+5. Canada
+6. Ushuaia, Argentina
+7. Tiananmen Square, Beijing, China
+8. Amano Hashidate, Kyoto, Japan
+
+
+
+
