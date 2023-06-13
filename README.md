@@ -22,14 +22,10 @@ What is your favorite internet meme?</br>
 Please write down if you have knowledge!
 
 # List of Meme
-1. Space Cat
-2. Meme man / Stonks guy
-3. Monster Hunter
-4. 1145141919810
-5. Mr.incredible becoming uncanny(https://wikiwiki.jp/mrincredible/Mr.%20incredible%20becoming%20uncanny)
-6. Doge
-7.
-8.
-9.
-10.
+* Space Cat
+* Meme man / Stonks guy
+* Monster Hunter
+* 1145141919810
+* Mr.incredible becoming uncanny(https://wikiwiki.jp/mrincredible/Mr.%20incredible%20becoming%20uncanny)
+* Doge
 
