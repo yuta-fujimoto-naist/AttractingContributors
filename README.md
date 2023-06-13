@@ -5,7 +5,7 @@ Goal - I want contributors to help me list some favorite Manga.
 2. Doraemon
 3. Dr.Stone
 4. BLEACH
-5.
+5. WorldTrigger
 6.
 7.
 8.
