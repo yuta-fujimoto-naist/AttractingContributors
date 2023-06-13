@@ -27,6 +27,28 @@ About 80,000 yen
 # My Project (Predict Exacta)
 Goal - I want contributors to help me predict win in the Takarazuka Kinen on June 25.
 
+# Entries
+1. Mozu Bello
+2. Win Mighty
+3. Karate
+4. Geoglyph
+5. Pradaria
+6. Unicorn Lion
+7. Blow the Horn
+8. Through Seven Seas
+9. Mixology
+10. Vela Azul
+11. Danon the Kid
+12. Lilac
+13. Dura Erede
+14. Boccherini
+15. Ask Victor More
+16. Breakup
+17. Deep Bond
+18. Geraldina
+19. Justin Palace
+20. Equinox
+
 # The Winner. (My tip)
 Equinox
 
