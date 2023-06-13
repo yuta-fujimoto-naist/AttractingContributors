@@ -49,7 +49,7 @@ Equinox
 3. Justin Palace
 4. Ask Victor More
 5. Lilac
-6.
+6. Pradaria
 7.
 8.
 9.
