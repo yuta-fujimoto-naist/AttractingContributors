@@ -20,4 +20,11 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# Could you please tell me what is your favorite music?
+I would like you to tell me your favorite music.
+あなたのお気に入りの音楽を教えてください。
+
 # List of Hobby
+1. 
+2. 
+3. 
