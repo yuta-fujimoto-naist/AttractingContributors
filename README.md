@@ -28,3 +28,4 @@ List of Anime.
 *  R
 *  C++
 *  Java
+*  Python3
