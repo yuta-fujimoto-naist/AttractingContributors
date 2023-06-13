@@ -6,4 +6,15 @@ Thank you in advance!
 # List of recommended places to visit
 1. Merida
 2. Hakata
-3. Saga
+3. Greatwall (China)
+4. Shirahama
+5. Canada
+6. Ushuaia, Argentina
+7. Tiananmen Square, Beijing, China
+8. Amano Hashidate, Kyoto, Japan
+9. Saga
+
+
+
+
+
