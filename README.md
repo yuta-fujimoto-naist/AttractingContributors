@@ -26,5 +26,5 @@ I would like you to tell me your favorite music.
 
 # List of Music
 1. idol
-2. 
+2. アンチノミー / amazarashi
 3. 
