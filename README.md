@@ -4,4 +4,9 @@ Because I like disovering new places, new food and new countries, I want to prep
 Thank you in advance!
 
 # List of recommended places to visit
-1.Canada
+1. Merida
+2. Hakata
+3. Greatwall (China)
+4. Shirahama
+5. Canada
+
