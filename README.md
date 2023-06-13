@@ -22,4 +22,6 @@ List of Anime.
 
 # List of ProgrammingLanguage
 1. C#
+2. Python
 4. R
+
