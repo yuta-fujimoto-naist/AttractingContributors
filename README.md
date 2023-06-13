@@ -10,5 +10,7 @@ Thank you in advance!
 4. Shirahama
 5. Canada
 6. Ushuaia, Argentina
+7. Tiananmen Square, Beijing, China
+
 
 
