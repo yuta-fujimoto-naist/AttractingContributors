@@ -1,23 +1,10 @@
-# Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
-
-# Rules
-
-1. Please choose a hobby or some interest that you want to build your repository
-2. Make a README to announce this theme (i.e., my favourite video games or anime)
-3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
-4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
-
-# Requirements
-To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
-2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects
-4. Merge 10 Pull Requests into your forked Project.
-
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# My Project
+あなたの好きなスポーツとそのスポーツの中で一番好きな選手の名前を教えてください。
+    • プロスポーツ選手や高校スポーツ選手、過去の選手などでも大丈夫です。
+    • 記述方式は　選手名/スポーツの名前　でお願いします
+Please tell us your favorite sport and the name of your favorite athlete in that sport.
+    - (Please use the following format: name of athlete/name of sport)
+    - It can be professional athletes, high school athletes, or past athletes.
 
 # List of Hobby
+• Jonah Tali Lomu / Rugby
