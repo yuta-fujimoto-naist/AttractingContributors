@@ -6,7 +6,7 @@ Goal - I want contributors to help me list some favorite Manga.
 3. Dr.Stone
 4. BLEACH
 5. WorldTrigger
-6.
+6. DEATH NOTE
 7.
 8.
 9.
