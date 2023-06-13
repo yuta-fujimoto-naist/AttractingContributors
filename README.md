@@ -20,6 +20,7 @@ Have you enjoyed internet meme?
 I like ridiculousness of internet meme.</br>
 What is your favorite internet meme?</br>
 Please write down if you have knowledge!
+To avoid conflicting, please write between written things...
 
 # List of Meme
 * Space Cat
