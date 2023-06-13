@@ -5,3 +5,4 @@ Thank you in advance!
 
 # List of recommended places to visit
 1. Merida
+2. Hakata
