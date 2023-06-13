@@ -46,8 +46,8 @@ Equinox
 # List of The Winner. (Your tip)
 1. Unicorn Lion
 2. Mixology
-3. Ask Victor More
-4.
+3. Justin Palace
+4. Ask Victor More
 5.
 6.
 7.
@@ -56,6 +56,7 @@ Equinox
 10.
 11.
 12.
+13.
 
 
 There is no intention to make you bet an unreasonable amount. <br>
