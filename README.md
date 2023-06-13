@@ -20,4 +20,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# Ramen
+Ramen a supreme bowl of perfection.
+My favorite Ramen is shoyu-tonkotsu. What kind of Ramen do you like?
