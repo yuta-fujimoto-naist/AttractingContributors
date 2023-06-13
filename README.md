@@ -7,3 +7,5 @@ Thank you in advance!
 1. Merida
 2. Hakata
 3. Greatwall (China)
+4. Shirahama
+
