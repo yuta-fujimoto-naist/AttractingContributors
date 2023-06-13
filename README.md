@@ -26,3 +26,4 @@ List of Anime.
 *  C
 *  Python
 *  R
+*  C++
