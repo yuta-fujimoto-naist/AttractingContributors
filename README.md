@@ -7,7 +7,7 @@ About 80,000 yen
 3. Japanese Derby (G1). Tastiera (win) 830 * 30 yen
 
 
-# My Project (Predict )
+# My Project (Predict Win)
 Goal - I want contributors to help me predict win in the Takarazuka Kinen on June 25.
 
 # Entries
@@ -34,6 +34,14 @@ Goal - I want contributors to help me predict win in the Takarazuka Kinen on Jun
 
 # The Winner. (My tip)
 Equinox
+
+# The Exacta of List. (My tip)
+1. Equinox-Justin Palace
+2. Equinox-Geraldina
+3. Equinox-Ask Victor More
+4. Equinox-Lilac
+5. Equinox-Unicorn Lion
+6. Equinox-Win Mighty
 
 # List of The Winner. (Your tip)
 1.
