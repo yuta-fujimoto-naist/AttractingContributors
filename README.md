@@ -10,7 +10,7 @@ Please tell us your favorite sport and the name of your favorite athlete in that
     - (Please use the following format: name of athlete/name of sport)
 
     - It can be professional athletes, high school athletes, or past athletes.
-    
 
-# List of Hobby
+
+# List 
 • Jonah Tali Lomu / Rugby
