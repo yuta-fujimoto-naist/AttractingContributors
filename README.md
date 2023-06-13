@@ -13,6 +13,7 @@ Thank you in advance!
 7. Tiananmen Square, Beijing, China
 8. Amano Hashidate, Kyoto, Japan
 9. Saga
+10. New York
 
 
 
