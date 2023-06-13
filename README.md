@@ -25,6 +25,6 @@ I would like you to tell me your favorite music.
 あなたのお気に入りの音楽を教えてください。
 
 # List of Music
-1. creating application
+1. idol
 2. 
 3. 
