@@ -21,8 +21,8 @@ Goal - I want contributors to help me list some favorite ProgrammingLanguage.
 List of Anime.
 
 # List of ProgrammingLanguage
-1. C#
-2. Python
-2. C
-2. Python
-4. R
+*  C#
+*  Python
+*  C
+*  Python
+*  R
