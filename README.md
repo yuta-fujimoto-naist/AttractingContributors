@@ -22,3 +22,4 @@ To avoid conflicting, please write between written things...
 * Mr.incredible becoming uncanny(https://wikiwiki.jp/mrincredible/Mr.%20incredible%20becoming%20uncanny)
 * Doge
 * Bakibaki doutei
+* がんばるゾイ
