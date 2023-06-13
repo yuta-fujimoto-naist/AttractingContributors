@@ -13,5 +13,5 @@ Please tell us your favorite sport and the name of your favorite athlete in that
 
 
 # List 
-• Jonah Tali Lomu / Rugby
-• Novak Đoković　/ Tennis
+* Jonah Tali Lomu / Rugby
+* Novak Đoković　/ Tennis
