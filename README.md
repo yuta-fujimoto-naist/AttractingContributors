@@ -23,3 +23,5 @@ To avoid conflicting, please write between written things...
 * Doge
 * Bakibaki doutei
 * DOKABEN OP
+* がんばるゾイ
+
