@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 I would like you to tell me your favorite music.
 あなたのお気に入りの音楽を教えてください。
 
-# List of Hobby
+# List of Music
 1. creating application
 2. 
 3. 
