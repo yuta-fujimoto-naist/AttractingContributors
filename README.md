@@ -10,3 +10,4 @@ Examples:
 
 # List of Ramens
 * Karakara uo(辛辛魚)
+* Ramen JIRO Kannai(ラーメン二郎関内)
