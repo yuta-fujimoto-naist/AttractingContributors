@@ -9,7 +9,7 @@ vivo X90 Pro+
 # List of Favorite Smartphone
 1. iPhone 12
 2. Galaxy Z Fold
-3.
+3. iPhone SE 2nd Edition
 4.
 5.
 6.
