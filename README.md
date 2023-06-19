@@ -10,7 +10,7 @@ vivo X90 Pro+
 1. iPhone 12
 2. Galaxy Z Fold
 3. iPhone SE 2nd Edition
-4.
+4. Oppo Reno 5A
 5.
 6.
 7.
