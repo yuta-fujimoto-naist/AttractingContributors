@@ -12,7 +12,7 @@ vivo X90 Pro+
 3. iPhone SE 2nd Edition
 4. Oppo Reno 5A
 5. iPhone SE 3rd Edition
-6.
+6. Oppo Reno 6 Pro
 7.
 8.
 9.
