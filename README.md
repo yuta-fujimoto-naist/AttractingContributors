@@ -16,3 +16,4 @@ vivo X90 Pro+
 7. iPhone 13
 8. iPhone 11 Pro
 9. Google Pixel 6a
+10. Sony XPERIA
