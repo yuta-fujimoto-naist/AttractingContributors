@@ -13,8 +13,5 @@ vivo X90 Pro+
 4. Oppo Reno 5A
 5. iPhone SE 3rd Edition
 6. Oppo Reno 6 Pro
-7.　　iPhone 13
-8.
-9.
-10.
-
+7. 　　iPhone 13
+8. 
