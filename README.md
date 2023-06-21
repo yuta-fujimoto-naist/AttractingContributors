@@ -20,4 +20,12 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# Question
+
+What is your favorite TV show?
+好きなテレビ番組はなんですか？
+
+Please add to the list below.
+下のリストに追加してください。
+
+# List of TV show
