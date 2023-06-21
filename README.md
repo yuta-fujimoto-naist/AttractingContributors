@@ -1,6 +1,6 @@
 
-# What is your first club activities?
-Tell us about your favorite club activities (that you would like to join)!
+# What is your first club?
+Tell us about your favorite club activity (that you would like to join)!
 
 `Orchestra`
 
