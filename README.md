@@ -3,4 +3,4 @@
 Please let me know what movie you saw for the first time!
 `Doraemon`
 
-# List the movie titles
+# List of the movie titles
