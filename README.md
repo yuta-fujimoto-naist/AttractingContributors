@@ -31,3 +31,4 @@ Please add to the list below.
 # List of TV show
 ・THE GREATEST SHOW-NEN
 ・Gundam
+・crazy journey
