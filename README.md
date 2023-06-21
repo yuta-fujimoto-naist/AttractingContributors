@@ -1,7 +1,7 @@
 
-# What is your first movie?
-Please let me know what movie you saw for the first time!
+# What is your first club activities?
+Tell us about your favorite club activities (that you would like to join)!
 
-`Doraemon`
+`Orchestra`
 
-# List of the movie titles
+# List of the club activities
