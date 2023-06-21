@@ -29,6 +29,7 @@ Please add to the list below.
 下のリストに追加してください。
 
 # List of TV show
-・THE GREATEST SHOW-NEN
-・Gundam
-・crazy journey
+- THE GREATEST SHOW-NEN
+- Gundam
+- crazy journey
+- Neon Genesis Evangelion
