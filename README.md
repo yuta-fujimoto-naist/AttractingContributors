@@ -6,5 +6,5 @@ Tell us about your favorite club activity (that you would like to join)!
 
 # List of the club activities
 - Music club
-- basketball
-
+- basketball 
+- Jazz band
