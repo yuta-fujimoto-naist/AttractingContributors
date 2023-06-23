@@ -35,3 +35,4 @@ Please add to the list below.
 - Neon Genesis Evangelion
 - onepiece
 - syabekuri 007
+- Precure
