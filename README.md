@@ -8,3 +8,4 @@ Tell us about your favorite club activity (that you would like to join)!
 - Music club
 - basketball 
 - Jazz band
+- Kyudo  
