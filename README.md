@@ -9,3 +9,4 @@ Tell me about your favorite club activity (that you would like to join)!
 - basketball 
 - Jazz band
 - Kyudo  
+- Football
