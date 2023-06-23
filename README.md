@@ -34,3 +34,4 @@ Please add to the list below.
 - crazy journey
 - Neon Genesis Evangelion
 - onepiece
+- Precure
